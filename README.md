@@ -14,12 +14,18 @@
 - CONFIABILIDADE: O sistema deve ser confiável e deve estar disponível 24 horas por dia, 7 dias por semana.
 - PERFORMACE: O sistema deve ser capaz de responder rapidamente às consultas e solicitações dos usuários. 
 - ESCALABILIDADE: O sistema deve ser capaz de escalar para lidar com um grande volume de dados e usuários.
+- DESEMPENHO:O sistema deve ser capaz de processar grandes volumes de dados de redes sociais em tempo real.
 
 
 ---
 #### Questão 2 [1,0 ponto] Projete o diagrama geral de arquitetura para esse sistema. Identifique os estilos arquiteturais utilizados em seu diagrama e justifique suas escolha
 
 https://app.diagrams.net/#G1o6hOjQw7bvJH8EKSjn0eKQtz5lNs3lxL
+
+ESTILO ARQUITETURAL DE MICROSERVIÇOS que é escalável, modular e permite o desenvolvimento independente de componentes específicos.
+
+
+ORIENTADA A EVENTOS: Os componentes do sistema podem emitir eventos quando ocorre uma ação relevante (por exemplo, a detecção de um novo post sobre enchentes) e outros componentes podem reagir a esses eventos realizando ações apropriadas, por exemplo, enviar um alerta para uma agência. A arquitetura orientada a eventos é adequada para sistemas com interações complexas e assíncronas.
 
 
 ---
