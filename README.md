@@ -22,6 +22,9 @@
 
 https://app.diagrams.net/#G1o6hOjQw7bvJH8EKSjn0eKQtz5lNs3lxL
 
+https://drive.google.com/file/d/1o6hOjQw7bvJH8EKSjn0eKQtz5lNs3lxL/view?usp=sharing
+
+
 ESTILO ARQUITETURAL DE MICROSERVIÇOS que é escalável, modular e permite o desenvolvimento independente de componentes específicos.
 
 
