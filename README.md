@@ -33,6 +33,7 @@ ORIENTADA A EVENTOS: Os componentes do sistema podem emitir eventos quando ocorr
 
 https://app.diagrams.net/#G1Wud8Az2ktAIoGCkmdwfC_ONQQqeHAUbF
 
+https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=VS-PdS-EM%20Q3.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1Wud8Az2ktAIoGCkmdwfC_ONQQqeHAUbF%26export%3Ddownload
 
 
 ---
