@@ -22,6 +22,9 @@
 
 https://drive.google.com/file/d/1o6hOjQw7bvJH8EKSjn0eKQtz5lNs3lxL/view?usp=sharing
 
+https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=VS-PdS-EM%20Q2.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1o6hOjQw7bvJH8EKSjn0eKQtz5lNs3lxL%26export%3Ddownload
+
+
 
 ESTILO ARQUITETURAL DE MICROSERVIÇOS que é escalável, modular e permite o desenvolvimento independente de componentes específicos.
 
